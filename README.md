@@ -24,6 +24,7 @@ IN THIS PROJECT, WE WILL SEE HOW TO USE KERAS AND TENSORFLOW TO BUILD, TRAIN, AN
 
 10. USING THE MODEL FOR PREDICTION.
 
-![1](https://user-images.githubusercontent.com/82018631/212559518-8dbed996-eb11-46b2-ac84-4a4363443e27.jpeg)
+
+![2](https://user-images.githubusercontent.com/82018631/212559562-874ee757-8556-4713-b4dd-2899e886611e.jpeg)
 
 Use the h5 file for loading the direct model
